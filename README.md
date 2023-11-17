@@ -1,2 +1,3 @@
 # java-netpcap-__-windows-use-_-U1
 windows tool for capturing and expanding network data ( pcap to csv ..... ) 
+"java-netpcap" is a Java-based project that leverages the NetPCAP library, a Java wrapper for the libpcap packet capture library. This project is designed for use on the Windows operating system and provides a user-friendly interface for capturing and analyzing network packets. The graphical user interface (GUI) enhances the user experience by offering a visual representation of network activity and allowing users to interact with captured data in a more intuitive way. This project is suitable for individuals interested in network programming and analysis within a Windows environment.
